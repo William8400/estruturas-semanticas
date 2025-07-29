@@ -1,0 +1,14 @@
+/* font-size: 100px; Comando que aumenta o texto */
+
+/*background-color: aqua; Comando que muda a cor de fundo*/
+
+/*header, nav, section, article, aside, main, footer(A virgula
+serve como "E mais algo)"*/
+
+/*width: 100vw; Propiedade de tamanhos
+height: 100vh;
+   
+margin: 0px; Propiedade de espaçamento*/
+
+/* top Right bottom left */ cabecalho
+/*top/bottom Left/Right */ 

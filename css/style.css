@@ -1,0 +1,56 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.estruturas_semanticas{
+    border: 0px solid black;
+}
+
+#menu_principal{
+   width: 100%;
+   background-color: beige;
+   
+   padding: 10px 0px;
+   margin: 0px;
+
+}
+
+#cabecalho{
+    width: 100vw;
+    background-color: antiquewhite;
+    
+        /* top Right bottom left */
+    padding: 10px 0px 10px 10px;
+
+    /*top/bottom Left/Right */ 
+    padding: 10px 0px 10px 0px;
+
+}
+
+section{
+
+    background-color: blue;
+    width: 100%;
+    padding: 10px; 
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.bloco_generico{
+    background-color: brown;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+}
+
+article{
+    display:inline;
+}
+

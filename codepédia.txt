@@ -1,0 +1,23 @@
+<!--Estruturas semânticas da web-->
+
+<header> <!-- Conteúdo semântico de cabeçalho -->
+
+<nav> <!-- Conteúdo semântico de navegação -->
+
+<main> <!-- Conteúdo semântico principal -->
+
+<section> <!-- Conteúdo semântico de seção -->
+
+<article> <!-- Conteúdo semântico de artigos -->
+
+
+<aside> <!-- Conteúdo semântico lateral -->
+
+
+<footer>  RODAPÉ </footer>
+
+<link rel="stylesheet" href="css/style.css"> <!-- Conexão entre arquivo HTML e CSS -->
+
+       
+
+   

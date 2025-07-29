@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*desafio nível água*/
+
+#nivel_agua{
+    
+    background-color: beige;
+    padding: 10px;
+    display: none;
+
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+
+.nivel_agua{
+
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+    margin: 10px;
+}
+
+/*Desafio nível danoninho*/
+
+#nivel_danoninho{
+    
+    background-color: blue;
+    padding: 10px;
+    display: none;
+
+}
+
+#cabecalho{
+
+    background-color: black;
+    height: 30px;
+
+}
+
+#conteudo_principal{
+
+    background-color: brown;
+    padding: 0px;
+
+    display: flex;
+}
+
+.nivel_danoninho{
+
+    background-color: white;
+    width: 50%;
+    height: 100px;
+
+    /* Topo Direita Baixo Esquerda  */
+    margin: 10px 0px 0px 0px;
+    
+
+}
+
+#div1{
+
+    margin-right: 10px;
+}
+
+/*desafio nível agua 2*/
+
+#nivel_agua2{
+    background-color: blue;
+    padding: 10px;
+    display: none;
+
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    
+}
+
+.nivel_agua2{
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    background-color: brown;
+    
+}
+
+/* desafio nível danoninho 2 */
+
+#nivel_danoninho2{
+    background-color: blue;
+    padding: 10px;
+    display: none;
+
+}
+
+.nivel_danoninho2{
+    background-color: turquoise;
+    width: 50%;
+    height: 100px;
+
+    margin: 10px 0px 0px 0px;
+}
+
+#cabecalho2{
+   background-color: black;
+   height: 30px;
+   width: 100%;
+}
+
+#conteudo_principal2{
+    background-color: red;
+    padding: 0px;
+    display: flex;
+}
