@@ -20,7 +20,8 @@
 
 #cabecalho{
     width: 100vw;
-    background-color: antiquewhite;
+    background-color: rgb(158, 154, 149);
+    display: flex;
     
         /* top Right bottom left */
     padding: 10px 0px 10px 10px;
@@ -51,6 +52,6 @@ section{
 }
 
 article{
-    display:inline;
+    display: inline;
 }
 

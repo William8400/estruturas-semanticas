@@ -96,7 +96,7 @@
 #nivel_danoninho2{
     background-color: blue;
     padding: 10px;
-    display: none;
+    display: flex;
 
 }
 
@@ -111,7 +111,7 @@
 #cabecalho2{
    background-color: black;
    height: 30px;
-   width: 100%;
+   width:  100%;
 }
 
 #conteudo_principal2{
